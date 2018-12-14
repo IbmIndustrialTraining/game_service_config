@@ -1,3 +1,6 @@
-my:
- game:
-   type: dev_game
+worldcup:
+  country:
+    host: England
+    capital: London
+    venues:
+    - old trafford,bristol,birmingham
