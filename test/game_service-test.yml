@@ -1,3 +1,6 @@
-my:
- game:
-   type: test_game
+worldcup:
+  country:
+    host: South Africa
+    capital: Johannesberg
+    venues:
+    - capetown,Johnnaesberg
